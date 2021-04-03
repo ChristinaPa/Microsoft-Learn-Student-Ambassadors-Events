@@ -4,9 +4,9 @@
 
 🔆Start learning about Azure https://docs.microsoft.com/el-gr/learn/
 
+
 <p align="center">
   <img width="300"  src="https://github.com/ChristinaPa/Microsoft-Learn-Student-Ambassadors-Events/blob/main/Logo.png">
 </p>
 
 
-https://github.com/ChristinaPa/Microsoft-Learn-Student-Ambassadors-Events/blob/main/Logo.png
